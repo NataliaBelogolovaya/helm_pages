@@ -6,7 +6,7 @@ namespace: project
 image: 
   repository: docker.io/nataliyamyslivets/sa-repo
   pullPolicy: IfNotPresent
-  tag: "flask-psql"
+  tag: 
 
 imagePullSecrets: []
 nameOverride: ""
