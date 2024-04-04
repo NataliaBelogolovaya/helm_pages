@@ -6,7 +6,7 @@ namespace: project
 image: 
   repository: docker.io/nataliyamyslivets/sa-repo
   pullPolicy: IfNotPresent
-  tag: v0.0.12
+  tag: v0.0.1
 
 imagePullSecrets: []
 nameOverride: ""
