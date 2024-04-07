@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   flask-psql:
   - apiVersion: v2
-    appVersion: v0.0.15-refs-tags-v0-0-14.0
-    created: "2024-04-07T13:14:34.401001698Z"
+    appVersion: v0.0.15-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-13-0-0-0-0-0.0
+    created: "2024-04-07T13:14:52.116229486Z"
     description: A Helm chart for Kubernetes
-    digest: 4a63d6a796ab07fd1f5ce0ef78d7ead98ae3b3d03134b4c0c16143e9d5d496ae
+    digest: 0b694dd83b9ca30d6a31f1facd22c8aa78f6088467424c69971bf4bcf289701a
     name: flask-psql
     type: application
     urls:
-    - flask-psql-v0.0.15-refs-tags-v0-0-14.0.tgz
-    version: v0.0.15-refs-tags-v0-0-14.0
-generated: "2024-04-07T13:14:34.400418246Z"
+    - flask-psql-v0.0.15-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-13-0-0-0-0-0.0.tgz
+    version: v0.0.15-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-13-0-0-0-0-0.0
+generated: "2024-04-07T13:14:52.115628902Z"

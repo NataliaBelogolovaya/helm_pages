@@ -2,5 +2,5 @@ apiVersion: v2
 name: flask-psql
 description: A Helm chart for Kubernetes
 type: application
-version: v0.0.15-refs-tags-v0-0-14.0
-appVersion: v0.0.15-refs-tags-v0-0-14.0
+version: v0.0.15-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-13-0-0-0-0-0.0
+appVersion: v0.0.15-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-14-refs-tags-v0-0-13-0-0-0-0-0.0
