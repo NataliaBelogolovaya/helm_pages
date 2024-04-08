@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   flask-psql:
   - apiVersion: v2
-    appVersion: v0.0.3
-    created: "2024-04-08T10:54:18.549744896Z"
+    appVersion: v0.0.4
+    created: "2024-04-08T11:12:23.829164965Z"
     description: A Helm chart for Kubernetes
-    digest: dff0f94cbccfc9872d4d54c47857cafbd2027f2a6be4652bdbfb547603e5d092
+    digest: a45c4a7fec9bdd42aedda7055cd11a8e615e737134e450804c08adf29a583320
     name: flask-psql
     type: application
     urls:
-    - flask-psql-v0.0.3.tgz
-    version: v0.0.3
-generated: "2024-04-08T10:54:18.549138018Z"
+    - flask-psql-v0.0.4.tgz
+    version: v0.0.4
+generated: "2024-04-08T11:12:23.828547437Z"
